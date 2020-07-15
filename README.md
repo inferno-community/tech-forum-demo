@@ -1,5 +1,20 @@
 # IG Test Creation Demo
 
+## Generating the tests
+
+```shell
+./generate_tests.sh
+```
+
+Then enable the tests in the Inferno `config.yml`
+
+Then run Inferno
+
+```shell
+cd inferno
+be rackup
+```
+
 ## Creating the Profiles
 
 The example profiles are written in FHIR Shorthand.  We can use SUSHI to compile these into Structure Definitions
@@ -15,7 +30,7 @@ Compile the profiles
 sushi .
 ```
 
-# Generating the tests
+## Generating the tests
 
 Download Inferno
 
