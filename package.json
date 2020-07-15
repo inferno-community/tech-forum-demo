@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version" : "0.0.1",  
+  "canonical" : "http://example.org/fhir/demo",
+  "url" : "http://example.org/fhir/demo",
+  "title" : "Demo Implementation Guide",
+  "description": "An example IG",
+  "dependencies": {
+     "hl7.fhir.r4.core": "4.0.1"
+  },
+  "keywords": [
+    "Demo"
+],
+  "language": "en",
+  "author": "Reece Adamson",
+  "maintainers": [
+    {
+      "name": "Reece Adamson",
+      "email": "radamson@mitre.org"
+    }
+  ],
+  "license": "Apache-2.0"
+ }
