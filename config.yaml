@@ -61,4 +61,4 @@ history:
     status: ballot
     sequence: STU 1
     current: true
-FSHOnly: true
+FSHOnly: false
