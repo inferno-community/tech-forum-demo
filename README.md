@@ -2,7 +2,13 @@
 
 **NOTE: This is a demonstration of a prototype.  Bugs and issues are expected and the API _will_ change**
 
-# Requirements
+## Overview
+
+Generate tests from an IG.
+
+![alt text](https://github.com/inferno-community/tech-forum-demo/blob/master/flow.png?raw=true)
+
+## Requirements
 Users should have all the necessary dependencies installed to run [SUSHI](https://github.com/FHIR/sushi) and the [FHIR IG Publisher](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation).  This includes things like Node.js, Java, Ruby and Jekyll.  Please see the relevant tools for instructions on installation and use.
 
 ## Generating the tests and running Inferno
