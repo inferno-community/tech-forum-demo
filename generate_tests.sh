@@ -16,7 +16,7 @@ cd ..
 rm -rf inferno
 
 # Install Inferno locally
-git clone https://github.com/onc-healthit/inferno.git
+git clone --single-branch --branch tech-forum https://github.com/onc-healthit/inferno.git
 
 # Unzip the NPM package
 tar zxvf build/output/package.tgz -C ./
