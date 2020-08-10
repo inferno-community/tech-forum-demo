@@ -7,7 +7,6 @@ Users should have all the necessary dependencies installed to run [SUSHI](https:
 
 ## Generating the tests and running Inferno
 
-
 ### In one shot
 
 ```shell
