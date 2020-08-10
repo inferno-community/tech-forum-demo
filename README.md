@@ -1,12 +1,13 @@
 # IG Test Creation Demo
 
+# Requirements
+Users should have all the necessary dependencies installed to run [SUSHI](https://github.com/FHIR/sushi) and the [FHIR IG Publisher](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation).  This includes things like Node.js, Java, Ruby and Jekyll.  Please see the relevant tools for instructions on installation and use.
+
 ## Generating the tests
 
 ```shell
 ./generate_tests.sh
 ```
-
-Then enable the tests in the Inferno `config.yml`
 
 Then run Inferno
 
