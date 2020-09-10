@@ -20,7 +20,7 @@ read -p "Ready to download Inferno?"
 rm -rf inferno
 
 # Install Inferno locally
-git clone --single-branch --branch tech-forum https://github.com/onc-healthit/inferno.git
+git clone --single-branch --branch development https://github.com/onc-healthit/inferno.git
 
 read -p "Ready to copy the IG into Inferno?"
 
